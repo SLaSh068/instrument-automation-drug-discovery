@@ -1,6 +1,6 @@
-# Hello World React App
+# Instrument Automation and Drug Discovery Lab
 
-A beautiful React application that displays "Hello World" with modern styling and animations.
+Agentic AI based Instrument Automation in Drug Discovery RnD Lab.
 
 ## Features
 
@@ -53,5 +53,3 @@ The app will automatically reload when you make changes to the code.
 ├── package.json           # Dependencies and scripts
 └── README.md              # This file
 ```
-
-Enjoy your Hello World React app! 🎉 
